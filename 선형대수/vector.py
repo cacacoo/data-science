@@ -54,4 +54,3 @@ def distance(v, w):
 
 def distance_magnitude(v, w):
     return magnitude(vector_subtract(v, w))
-
